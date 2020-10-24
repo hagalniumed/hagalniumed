@@ -1,7 +1,5 @@
 ### 안녕 친구들 👋
 
-<!--
-**hagalniumed/hagalniumed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 그것을 해갈입니까?:
 
@@ -13,4 +11,4 @@
 - 📫 연락 방법 : ...
 - 😄 대명사 : ...
 - ⚡ 재미있는 사실 : ...
--->
+
