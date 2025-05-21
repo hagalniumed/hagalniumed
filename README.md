@@ -1,4 +1,4 @@
-# 둥근해 미친 거 또 떴네
+# 뇌에 나사박힌 대학생
 ![Image](https://github.com/user-attachments/assets/9db070d6-914a-4fdf-8891-1a590d56d491)
 
 이새끼 업적 : 
