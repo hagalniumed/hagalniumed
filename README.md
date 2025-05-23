@@ -2,7 +2,7 @@
 ![Image](https://github.com/user-attachments/assets/9db070d6-914a-4fdf-8891-1a590d56d491)
 
 이새끼 업적 : 
-- 👃[케인인님 옷입히기](https://hag.al/kanetv8.html)
+- 👃[케인인님 옷입히기](https://igonan1.com)
 - 👙[비키니 모험](https://store.steampowered.com/app/2573530/_/?l=koreana)
 - 👯[온라인 성인 게임](http://hag.al/mint)
 - 🎓[대학교 탈출하기](http://hag.al/hannam_timer)
